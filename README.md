@@ -1,7 +1,7 @@
 # CMCPriceData
 This is a quick python script to track coin prices for coins on Coin Market Cap (CMC)
 
-This is a quick python script I made to help me track the prices of various crypto currencies.  My set up is by pluggin into the Coin Market Cap api with a basic user subscription and will gather date, price and volume data for variou crypto coins every 5 minutes and save them to specific CSV files pertaining to the coins.  In this guide, I will detail my set up if you wish to gather your own price data. 
+This is a quick python script I made to help me track the prices of various crypto currencies.  My set up is by pluggin into the Coin Market Cap api with a basic user subscription and will gather date, price and volume data for various crypto coins every 5 minutes and save them to specific CSV files pertaining to the coins.  In this guide, I will detail my set up if you wish to gather your own price data. 
 
 STEPS:
 1. Set up an API account with coin market cap. 
